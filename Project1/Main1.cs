@@ -69,6 +69,9 @@ public class MainT
         Console.WriteLine("after doIt:");
         a1.show();
         Console.WriteLine($"total assets is now {totalAssets}");
+        Console.WriteLine("This is a test for stuff?");
+        
+
 
 
 
@@ -98,6 +101,7 @@ public class MainT
         a.withdraw(50);
         totalAssets--;
     }
+    
 
 
 
