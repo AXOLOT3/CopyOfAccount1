@@ -27,3 +27,18 @@ c:\Users\jr1108556\Desktop\CopyOfAccount1\Project1\obj\Debug\net9.0\refint\C# Co
 c:\Users\jr1108556\Desktop\CopyOfAccount1\Project1\obj\Debug\net9.0\C# Code.pdb
 c:\Users\jr1108556\Desktop\CopyOfAccount1\Project1\obj\Debug\net9.0\C# Code.genruntimeconfig.cache
 c:\Users\jr1108556\Desktop\CopyOfAccount1\Project1\obj\Debug\net9.0\ref\C# Code.dll
+C:\Users\jr1108556\Desktop\Clone accountFolder\CopyOfAccount1\Project1\bin\Debug\net9.0\C# Code.exe
+C:\Users\jr1108556\Desktop\Clone accountFolder\CopyOfAccount1\Project1\bin\Debug\net9.0\C# Code.deps.json
+C:\Users\jr1108556\Desktop\Clone accountFolder\CopyOfAccount1\Project1\bin\Debug\net9.0\C# Code.runtimeconfig.json
+C:\Users\jr1108556\Desktop\Clone accountFolder\CopyOfAccount1\Project1\bin\Debug\net9.0\C# Code.dll
+C:\Users\jr1108556\Desktop\Clone accountFolder\CopyOfAccount1\Project1\bin\Debug\net9.0\C# Code.pdb
+C:\Users\jr1108556\Desktop\Clone accountFolder\CopyOfAccount1\Project1\obj\Debug\net9.0\C# Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jr1108556\Desktop\Clone accountFolder\CopyOfAccount1\Project1\obj\Debug\net9.0\C# Code.AssemblyInfoInputs.cache
+C:\Users\jr1108556\Desktop\Clone accountFolder\CopyOfAccount1\Project1\obj\Debug\net9.0\C# Code.AssemblyInfo.cs
+C:\Users\jr1108556\Desktop\Clone accountFolder\CopyOfAccount1\Project1\obj\Debug\net9.0\C# Code.csproj.CoreCompileInputs.cache
+C:\Users\jr1108556\Desktop\Clone accountFolder\CopyOfAccount1\Project1\obj\Debug\net9.0\C# Code.sourcelink.json
+C:\Users\jr1108556\Desktop\Clone accountFolder\CopyOfAccount1\Project1\obj\Debug\net9.0\C# Code.dll
+C:\Users\jr1108556\Desktop\Clone accountFolder\CopyOfAccount1\Project1\obj\Debug\net9.0\refint\C# Code.dll
+C:\Users\jr1108556\Desktop\Clone accountFolder\CopyOfAccount1\Project1\obj\Debug\net9.0\C# Code.pdb
+C:\Users\jr1108556\Desktop\Clone accountFolder\CopyOfAccount1\Project1\obj\Debug\net9.0\C# Code.genruntimeconfig.cache
+C:\Users\jr1108556\Desktop\Clone accountFolder\CopyOfAccount1\Project1\obj\Debug\net9.0\ref\C# Code.dll
