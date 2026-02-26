@@ -4,6 +4,8 @@ public class MainT
 {
     static void Main(string[] args)
     {
+
+        Console.WriteLine("this writeline added on the MainChange branch");
         /*
         BankAccount Account1 = new BankAccount(100, "Bob");
         Account1.show(); Console.WriteLine("About to withdraw 150");
@@ -63,6 +65,9 @@ public class MainT
         Console.WriteLine(y);
         */
 
+
+        /*
+
         BankAccount a1 = new BankAccount(100, "bob");
         int totalAssets = 1000;
         DoIt(a1, ref totalAssets);
@@ -70,7 +75,9 @@ public class MainT
         a1.show();
         Console.WriteLine($"total assets is now {totalAssets}");
         Console.WriteLine("This is a test for stuff?");
-        
+
+        */
+
 
 
 
@@ -101,9 +108,4 @@ public class MainT
         a.withdraw(50);
         totalAssets--;
     }
-    
-
-
-
-
 }
